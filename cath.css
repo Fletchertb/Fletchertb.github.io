@@ -1,3 +1,13 @@
+.head {
+    background-color: rgb(83, 151, 98);
+}
+.page {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 .header {
     background-color: green;
     position: absolute;
@@ -20,6 +30,7 @@
 .progress {
     background-color: black;
     padding: 5px;
+    margin-bottom: 10px;
 
 }
 .progressbar {
@@ -31,5 +42,9 @@
     padding-left: 0px;
     padding-right: 0px;
     margin-right: 85%;
-    padding-top: 50px;
+    padding-top: 30px;
+    
+}
+.fem {
+    width: 700px;
 }
